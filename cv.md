@@ -1,6 +1,6 @@
 # Assimbayev Marat
 
-## Phone number: +7 707 907 17 77
+## Phone number: +7 777 777 77 77
 
 ### About me
 
@@ -31,7 +31,7 @@ if (this === "") return "";
 
 ### Educational projects
 
-#### A shortened copy of the Jira program
+A shortened copy of the Jira program
 
 ##### Web application functionality:
 
