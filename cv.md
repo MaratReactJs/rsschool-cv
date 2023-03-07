@@ -31,7 +31,7 @@ if (this === "") return "";
 
 ### Educational projects
 
-A shortened copy of the Jira program
+A shortened copy of the Jira program https://maratreactjs.github.io/jira/
 
 ##### Web application functionality:
 
