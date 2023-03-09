@@ -1,6 +1,9 @@
 # Assimbayev Marat
 
-## Phone number: +7 777 777 77 77
+### Contacts for communication
+
+discord: MaratReactJS
+phone number: +7 707 907 17 77
 
 ### About me
 
