@@ -1,1 +1,1 @@
-https://MaratReactJs.github.io/rsschool-cv/cv
+https://MaratReactJs.github.io/rsschool-cv
